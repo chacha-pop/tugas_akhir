@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ol,ul {
+	list-style: none;
+}
+blockquote, q{
+	quotes: none;
+}
+/*stayle*/
+body{
+	background-image: url(i.jpg);
+	color: #fff;
+	background-size: cover:10;
+}
+.container {
+	background: #bf00ff;
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: 'Kaushan Sricpt',cursive;
+	color: #000000;
+}
+h2{
+	font-size: 20px;
+	font-family: 'Kaushan Sricpt',cursive;
+	color: #000000;
+
+}
+p{
+	font-size: 20px;
+	font-family: 'Kaushan Sricpt',cursive;
+	color: #000000;
+}
+p{
+	font-size: 20px;
+	font-family: 'Kaushan Sricpt',cursive;
+	color: #000000;
+}
